@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1855.7426"
-     inkscape:cy="2016.0361"
+     inkscape:zoom="1"
+     inkscape:cx="4016.1313"
+     inkscape:cy="3213.7668"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3223"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="3440"
@@ -112,7 +112,7 @@
     <path
        id="path3167"
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#7b98ff;fill-opacity:0.466733;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 562.90814,414.93321 v 5 l 29.25742,0 c 0.89532,3.43988 4.02241,6 7.74258,6 4.41828,-10e-6 8,-3.58172 8,-8 0,-3.17443 -2.68629,-3.00001 -6,-3 0,0.55228 -0.89543,1 -2,1 -1.10457,0 -2,-0.44772 -2,-1 z m 38,3 a 1.000002,0.9999994 0 0 1 -1,1 1.000002,0.9999994 0 0 1 -1.00001,-1 1.000002,0.9999994 0 0 1 1.00001,-1 1.000002,0.9999994 0 0 1 1,1 z"
+       d="m 562.90814,414.93321 v 5 h 29.25742 c 0.89532,3.43988 4.02241,6 7.74258,6 4.41828,-10e-6 8,-3.58172 8,-8 0,-3.17443 -2.68629,-3.00001 -6,-3 0,0.55228 -0.89543,1 -2,1 -1.10457,0 -2,-0.44772 -2,-1 z m 38,3 a 1.000002,0.9999994 0 0 1 -1,1 1.000002,0.9999994 0 0 1 -1.00001,-1 1.000002,0.9999994 0 0 1 1.00001,-1 1.000002,0.9999994 0 0 1 1,1 z"
        inkscape:label="C9, C10, C12 pushrod link 1.5mm steel" />
     <path
        id="path3186"
@@ -591,12 +591,8 @@
        inkscape:label="F4 tail gear support 5x12mm pine" />
     <g
        id="g3639"
-       inkscape:label="wing side view on fuse">
-      <path
-         id="ellipse4417"
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:0.12163;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m 338.65631,170.26939 c 0,1.933 3.35786,3.5 7.5,3.5 h 73 m 0,0 c 4.14214,0 7.5,-1.567 7.5,-3.5 v -7 m 0,0 c 0,-1.933 -3.35786,-3.5 -7.5,-3.5 h -73 m 0,0 c -4.14214,0 -7.5,1.567 -7.5,3.5 v 7"
-         inkscape:label="ribs cutout" />
+       inkscape:label="wing side view on fuse"
+       style="display:inline">
       <g
          id="g3831"
          inkscape:label="wing section outline parts"
@@ -658,6 +654,18 @@
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          inkscape:label="symmetry line"
          d="m 345.15634,155.08909 v 21.077 m 75,-21.077 v 21.077" />
+      <path
+         id="ellipse4417-3"
+         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:0.12163;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 403.0318,170.2694 c 0,1.933 3.35786,3.5 7.5,3.5 h 7.00006 c 4.14214,0 7.5,-1.567 7.5,-3.5 v -7 c 0,-1.933 -3.35786,-3.5 -7.5,-3.5 h -7.00006 m 0,0 c -4.14214,0 -7.5,1.567 -7.5,3.5 v 7"
+         inkscape:label="ribs cutout"
+         sodipodi:nodetypes="cscscsccsc" />
+      <path
+         id="path2065"
+         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:0.12163;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 344.0324,170.2694 c 0,1.933 3.35786,3.5 7.5,3.5 h 6.99988 m 0,0 c 4.14214,0 7.5,-1.567 7.5,-3.5 v -7 c 0,-1.933 -3.35786,-3.5 -7.5,-3.5 h -6.99988 m 0,0 c -4.14214,0 -7.5,1.567 -7.5,3.5 v 7"
+         inkscape:label="ribs cutout"
+         sodipodi:nodetypes="csccscsccsc" />
     </g>
   </g>
   <g
@@ -905,6 +913,11 @@
          d="m 1286.6056,781.75854 13,-2.46929 c 0,0 12.0003,-122.92474 12.0002,-177.92471 -10e-5,-30.37566 -11.1929,-55 -25.0001,-54.99998 z"
          sodipodi:nodetypes="ccccc"
          inkscape:label="W3 wing tip R balsa" />
+      <path
+         id="path1989"
+         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:0.270987;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         inkscape:label="rib openings from-to"
+         d="M 624.33301,653.74011 H 646.833 m -22.49999,-22 H 646.833 m -515.45437,19.43656 22.49999,0.0764 m -22.49998,-11.07636 22.49999,0.0764 m 32.27271,11.10951 22.49999,0.0763 m -22.49998,-11.07635 22.49999,0.0763 m 32.27271,11.10951 22.49999,0.0764 m -22.49998,-11.07636 22.49999,0.0764 m 32.27271,11.10951 22.49999,0.0763 m -22.49998,-11.07635 22.49999,0.0763 m 32.27271,11.10951 22.49999,0.0764 m -22.49998,-11.07636 22.49999,0.0764 m 32.27271,11.10951 22.49999,0.0764 m -22.49998,-11.07635 22.49999,0.0764 m 32.27271,11.10951 22.49999,0.0764 m -22.49998,-11.07636 22.49999,0.0764 m 32.27271,11.10951 22.49999,0.0763 m -22.49998,-11.07635 22.49999,0.0763 m 32.27271,11.10951 22.49999,0.0764 m -22.49998,-11.07636 22.49999,0.0764 m -460.68168,-14.74634 22.49999,-0.0307 m -22.49998,-10.96859 22.49999,-0.0321 m 415.68168,-28.1267 22.49999,-2.06289 m -22.49998,-9.95504 22.49999,-0.027 m -405.90897,46.2424 22.49999,-0.15289 m -22.49998,-10.88417 22.49999,-0.0788 m 32.27271,5.99379 22.49999,0.0476 m -22.49998,-11.10879 22.49999,0.16995 m 32.27271,5.87413 22.49999,0.0382 m -22.49998,-11.05237 22.49999,0.0665 m 32.27271,5.9646 22.49999,-0.0392 m -22.49998,-10.98957 22.49999,0.0184 m 32.27271,5.96663 22.49999,0.005 m -22.49998,-10.98218 22.49999,-0.0404 m 32.27271,5.97982 22.49999,0.0372 m -22.49998,-11.00195 22.49999,-0.0334 m 32.27271,5.98385 22.49999,0.0221 m -22.49998,-11.01811 22.49999,0.0141 m 87.04541,13.90741 H 646.833 m -22.49999,-22 H 646.833" />
     </g>
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#5557f8;fill-opacity:0.270987;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -3609,7 +3622,49 @@ upra1qq0wHNSaqaPzn3b8VPnOMaw2E8VzmMhw3kMsnf8JVj+D7BV2y1UUDcAAAAAAElFTkSuQmCC
   <path
      id="path4532"
      style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 376.88027,240.5724 -6.20736,-22.54849 -6.20736,22.54849 z"
+     d="m 376.88027,368.90066 -6.20736,-22.54849 -6.20736,22.54849 z"
      sodipodi:nodetypes="ccc"
      inkscape:label="CG point" />
+  <text
+     xml:space="preserve"
+     style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+     x="832.84131"
+     y="849.16254"
+     id="text2160"><tspan
+       sodipodi:role="line"
+       id="tspan2158"
+       x="832.84131"
+       y="849.16254"
+       style="text-align:start;text-anchor:start;stroke-width:0.264583">&quot;Csutka&quot; F2B trainer</tspan><tspan
+       sodipodi:role="line"
+       x="832.84131"
+       y="862.39166"
+       style="text-align:start;text-anchor:start;stroke-width:0.264583"
+       id="tspan2176">designed: István Travnik, 1979</tspan><tspan
+       sodipodi:role="line"
+       x="832.84131"
+       y="875.62079"
+       style="text-align:start;text-anchor:start;stroke-width:0.264583"
+       id="tspan2172">redrawn: t, 2022</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+     x="1005.2165"
+     y="849.16254"
+     id="text2194"><tspan
+       sodipodi:role="line"
+       x="1005.2165"
+       y="849.16254"
+       style="text-align:start;text-anchor:start;stroke-width:0.264583"
+       id="tspan2188">wingspan: 1250mm / 49&quot;</tspan><tspan
+       sodipodi:role="line"
+       x="1005.2165"
+       y="862.39166"
+       style="text-align:start;text-anchor:start;stroke-width:0.264583"
+       id="tspan2190">dry weight: ~1100g / ~39oz</tspan><tspan
+       sodipodi:role="line"
+       x="1005.2165"
+       y="875.62079"
+       style="text-align:start;text-anchor:start;stroke-width:0.264583"
+       id="tspan2192">engine: .40-.46 2T</tspan></text>
 </svg>
