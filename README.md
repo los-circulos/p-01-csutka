@@ -10,7 +10,7 @@ Original "Csutka" designed and drawn by Istvan Travnik. 49" wingspan, .40 size e
 
 ## Adapted Csutka23
 
-"Csutka23" is a smaller, ~90% adaptation designed for .25FP / .25LA engines and laser cutting. With 44" wingspan and ~850g dry weight.
+"Csutka23" is a smaller, ~90% adaptation designed for .25FP/LA or .25FX engines and laser cutting. With 44" wingspan and 850-1000g dry weight.
 
 Some 3d printable support pieces can be found in my other https://github.com/los-circulos/k-02-rib-guides git repository - jig pieces for wing building and profiling tools for LE and TE. You can also print your bellcarnk (see below).
 
@@ -21,12 +21,12 @@ Some 3d printable support pieces can be found in my other https://github.com/los
  - "jet" fuselage has a slimmer tail, and offers a reduced single wheel landing gear. Serves for hand launch and landing on grass. Can be cut from standard fuselage/tail pieces, with the optional bottom skid.
 
 #### Bellcrank mount:
- - "JR" option for 2mm aluminium (or similar) bellcrank
- - "PRO" option for 10mm nylon (or similar) bellcrank (see my other https://github.com/los-circulos/k-09-bellcranks git repository)
+ - "JR" option for 2mm thick aluminium (or similar) bellcrank (3")
+ - "PRO" option for 8mm nylon (or similar) bellcrank (see my other https://github.com/los-circulos/k-09-bellcranks git repository) - also apt for bellcrank with built in expo (3")
 
 #### Control system:
- - "JR" option for RC control pieces
- - "PRO" for a custom lightweight solution (requires fabrication)
+ - "JR" a custom lightweight solution (requires fabrication)
+ - "PRO" option for RC control pieces
 
 #### Cable leadouts
  - "JR" adjustable option for displacable leadout guide tubes, pre-cut holes in the closing rib
